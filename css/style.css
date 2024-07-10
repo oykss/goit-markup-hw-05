@@ -652,7 +652,6 @@ footer .soc-link:is(:hover, :focus) {
 
 .check-mark-wrap {
     display: inline-flex;
-    display: block;
     width: 16px;
     height: 16px;
     border-radius: 2px;
