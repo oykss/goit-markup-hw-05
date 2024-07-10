@@ -1,8 +1,8 @@
 # [Домашнє завдання № 5](https://oykss.github.io/goit-markup-hw-05/)
 
-- Створи репозиторій [goit-markup-hw-05](https://www.figma.com/file/wuEpGhwCepGCOUw7mZFRac/Web-Studio-(Version-5.0)?type=design&node-id=297035-1582&mode=design&t=HqslgV0OjDOknzIj-0).
+- Створи репозиторій goit-markup-hw-05.
 - Склонуй створений репозиторій і скопіюй в нього файли попередньої роботи.
-- Додай розмітку і оформлення форм макета домашнього завдання #5.
+- Додай розмітку і оформлення форм макета [домашнього завдання #5](https://www.figma.com/file/wuEpGhwCepGCOUw7mZFRac/Web-Studio-(Version-5.0)?type=design&node-id=297035-1582&mode=design&t=HqslgV0OjDOknzIj-0).
 - Налаштуй GitHub Pages і додай посилання на живу сторінку в секцію About GitHub-репозиторія.
 
 ## Критерії приймання роботи наставником
