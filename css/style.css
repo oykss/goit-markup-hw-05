@@ -651,10 +651,10 @@ footer .soc-link:is(:hover, :focus) {
 }
 
 .check-mark-wrap {
+    display: inline-flex;
     width: 16px;
     height: 16px;
     margin-right: 8px;
-    display: inline-flex;
     justify-content: center;
     align-items: center;
     fill: transparent;
@@ -697,6 +697,7 @@ input[type="checkbox"]:checked+.check-mark-wrap {
 .modal-btn-send {
     font-family: "Roboto", sans-serif;
     display: block;
+    margin: 0 auto;
     box-shadow: 0 4px 4px 0 rgba(0, 0, 0, 0.15);
     border: none;
     background: #4d5ae5;
